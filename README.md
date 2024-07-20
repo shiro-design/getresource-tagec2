@@ -38,6 +38,7 @@ python get-resource.py
 
 > This'll ask you to input the key and value for tagging, Please leave a empty when you complete for tag Key.
 
+![image](https://github.com/user-attachments/assets/8b901c28-5cf2-463d-a09d-46ca11119d55)
 
 
 ### Prerequisites
